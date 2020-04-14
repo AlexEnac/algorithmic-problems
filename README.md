@@ -16,7 +16,7 @@ git clone https://github.com/AlexEnac/algorithmic-problems/
 ## Get the changes
 
 ```bash
-git pull origin
+git pull origin master
 ```
 *use this after someone has made a change and commited to the remote repository*
 
